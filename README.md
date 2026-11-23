@@ -2,9 +2,9 @@
 
 One 1024x1024 poster summing up Sunday 22 November 2026 world news: COP31 climate talks collapse with no deal, the World Court rules Myanmar committed genocide against the Rohingya, a Russian warship is sunk off Libya in a suspected Ukrainian drone strike, Iran–Gulf tensions flare around the Strait of Hormuz, and Mexico captures cartel boss "El Chapo Isidro" in a deadly Sinaloa raid.
 
-[![make.fun](https://make.fun/api/competitions/news-image-20261122/badge)](https://make.fun/c/news-image-20261122)
-[![make.fun](https://make.fun/api/competitions/news-image-20261122/badge?metric=rate)](https://make.fun/c/news-image-20261122)
-[![make.fun](https://make.fun/api/competitions/news-image-20261122/badge?metric=place)](https://make.fun/c/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/chuxi041118/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/chuxi041118/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 ## Run it
 
